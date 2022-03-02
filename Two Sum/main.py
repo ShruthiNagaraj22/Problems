@@ -1,5 +1,3 @@
-#from typing import List
-
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         traversed = {}
